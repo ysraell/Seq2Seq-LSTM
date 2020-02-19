@@ -1,4 +1,6 @@
-# seq2seq-lstm
+# seq2seq-lstm (Fork)
+
+**This repository is a fork from https://github.com/bond005/seq2seq.git!**
 
 The Seq2Seq-LSTM is a sequence-to-sequence classifier with the sklearn-like interface, and it uses the Keras package for neural modeling.
 
